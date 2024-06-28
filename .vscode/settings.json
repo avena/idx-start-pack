@@ -1,0 +1,32 @@
+{
+    "terminal.integrated.shellIntegration.enabled": false,
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+    "IDX.webDevTools": true,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 10,
+    "editor.colorDecorators": true,
+    "editor.cursorColor": "FF0000",
+    "editor.fontLigatures": true,
+    "editor.find.cursorMoveOnType": true,
+    "terminal.integrated.cursorWidth": 10,
+    "terminal.integrated.cursorStyleInactive": "outline",
+    "terminal.integrated.cursorStyle": "block",
+    "editor.fontSize": 20,
+    "workbench": {
+      "colorTheme": ""
+    },
+    "editor.fontWeight": "normal",
+    "editor.minimap.enabled": false,
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.tree.indent": 10,
+    "editor.mouseWheelZoom": true,
+    "IDX.corgiMode": true,
+    
+    
+  }
+  
