@@ -22,16 +22,16 @@
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
-        "ritwickdey.liveserver"
-        "eamodio.gitlens"
-        "formulahendry.auto-close-tag"
-        "formulahendry.auto-rename-tag"
-        "aaron-bond.better-comments"
-        "vscode-icons-team.vscode-icons"
+        #"ritwickdey.liveserver"
+        #"eamodio.gitlens"
+        #"formulahendry.auto-close-tag"
+        #"formulahendry.auto-rename-tag"
+        #"aaron-bond.better-comments"
+        # "vscode-icons-team.vscode-icons"
         
         # code spell
-        "streetsidesoftware.code-spell-checker"
-        "streetsidesoftware.code-spell-checker-portuguese-brazilian"
+        # "streetsidesoftware.code-spell-checker"
+        # "streetsidesoftware.code-spell-checker-portuguese-brazilian"
         # "vscodevim.vim"
 
         # salesforce
