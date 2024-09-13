@@ -74,10 +74,10 @@
 		// "dzannotti.vscode-babel-coloring",
 		
 		// JavaScript (ES6) code snippets
-		"xabikos.javascriptsnippets",
+		// "xabikos.javascriptsnippets",
 
 		// JavaScript Snippet Pack
-		"akamud.vscode-javascript-snippet-pack",
+		// "akamud.vscode-javascript-snippet-pack",
 
 		// VSCode syntax highlighting for today's JavaScript
 		// "mgmcdermott.vscode-language-babel",
@@ -86,7 +86,7 @@
 		// "dsznajder.es7-react-js-snippets",
 
 		// Simple React Snippets
-		"burkeholland.simple-react-snippets",
+		// "burkeholland.simple-react-snippets",
 
 		// SonarLint 
 		"sonarsource.sonarlint-vscode",
@@ -101,7 +101,7 @@
 		"gitpod.gitpod-desktop",
 
 		// Tailwind CSS IntelliSense
-		"bradlc.vscode-tailwindcss",
+		// "bradlc.vscode-tailwindcss",
 
 		// Path Intellisense - Visual Studio Code plugin that autocompletes filenames
 		"christian-kohler.path-intellisense",
@@ -122,13 +122,13 @@
 		// "ritwickdey.liveserver",
 
 		// Live Sass Compiler
-		"glenn2223.live-sass",
+		// "glenn2223.live-sass",
 
 		// Sass (.sass only)
-		"syler.sass-indented",
+		// "syler.sass-indented",
 
 		// Live Share Real-time collaborative development from the comfort of your favorite tools.
-		"ms-vsliveshare.vsliveshare",
+		// "ms-vsliveshare.vsliveshare",
 
 		// Jupyter Extension for Visual Studio Code
 		"ms-toolsai.jupyter",
@@ -184,6 +184,10 @@
 
 		// Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.
 		"ms-python.python",
+
+		// PowerBI Extension Pack for VSCode
+		"gerhardbrueckl.powerbi-vscode-extensionpack",
+
 
 	],
 
