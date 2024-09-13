@@ -1,22 +1,195 @@
 {
 	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
 	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
-
+	
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [
-		"ritwickdey.liveserver",
-        "eamodio.gitlens",
-        "formulahendry.auto-close-tag",
-        "formulahendry.auto-rename-tag",
-        "aaron-bond.better-comments",
-        "vscode-icons-team.vscode-icons",
-		// "streetsidesoftware.code-spell-checker",
-        "streetsidesoftware.code-spell-checker-portuguese-brazilian",
-		"HookyQR.beautify"
+		// GitLens — Git supercharged
+		"eamodio.gitlens",
 		
+		// Git History
+		"donjayamanne.githistory",
+
+		// Auto Close Tag - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
+		"formulahendry.auto-close-tag",
+
+		// Auto Comment Blocks
+		"kevinkyang.auto-comment-blocks",
+
+		// Auto rename paired HTML/XML tag
+		"formulahendry.auto-rename-tag",
+
+		// autoDocstring - Python Docstring Generator
+		"njpwerner.autodocstring",
+
+		// The Better Comments extension will help you create more human-friendly comments in your code.
+		"aaron-bond.better-comments",
+
+		// Icons for Visual Studio Code
+		"vscode-icons-team.vscode-icons",
+
+		// Docker for Visual Studio Code
+		"ms-azuretools.vscode-docker",
+		
+		// Brazilian Portuguese - Code Spell Checker
+		"streetsidesoftware.code-spell-checker-portuguese-brazilian",
+
+		// Prettier Formatter for Visual Studio Code		
+		"esbenp.prettier-vscode",
+
+		// Code Time is an open source plugin that provides programming metrics right in Visual Studio Code.
+		"softwaredotcom.swdc-vscode",
+		
+		// Amazon Q is your generative AI-powered assistant across the software development lifecycle.
+		// "amazonwebservices.amazon-q-vscode",
+		
+		// Phind.com - Chat with your Codebase - AI with Codebase Context
+		// "phind.phind",
+
+		// Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more
+		// "Codeium.codeium",		
+
+		// Codiumate - Code, test and review with confidence - by CodiumAI
+		// "Codium.codium",
+
+		// Cody: AI Coding Assistant with Autocomplete & Chat
+		// "sourcegraph.cody-ai",
+
+		// GitHub Copilot - Your AI pair programmer
+		// "GitHub.copilot",
+		// GitHub Copilot Chat
+		// "GitHub.copilot-chat",
+
+		// Gemini Code Assist + Google Cloud Code for Visual Studio Code
+		"googlecloudtools.cloudcode",
+
+		// Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more
+		"tabnine.tabnine-vscode",
+
+		// Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+		// "continue.continue",
+
+		//JS
+		// Adds JS Babel es6/es7 syntax coloring
+		// "dzannotti.vscode-babel-coloring",
+		
+		// JavaScript (ES6) code snippets
+		"xabikos.javascriptsnippets",
+
+		// JavaScript Snippet Pack
+		"akamud.vscode-javascript-snippet-pack",
+
+		// VSCode syntax highlighting for today's JavaScript
+		// "mgmcdermott.vscode-language-babel",
+
+		// Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
+		// "dsznajder.es7-react-js-snippets",
+
+		// Simple React Snippets
+		"burkeholland.simple-react-snippets",
+
+		// SonarLint 
+		"sonarsource.sonarlint-vscode",
+
+		// Integrates ESLint JavaScript into VS Code.
+		// "dbaeumer.vscode-eslint",
+
+		// GitHub Codespaces
+		"github.codespaces",
+
+		// Gitpod Support
+		"gitpod.gitpod-desktop",
+
+		// Tailwind CSS IntelliSense
+		"bradlc.vscode-tailwindcss",
+
+		// Path Intellisense - Visual Studio Code plugin that autocompletes filenames
+		"christian-kohler.path-intellisense",
+
+		// IntelliCode - AI-assisted development
+		"visualstudioexptteam.vscodeintellicode",
+
+		// IntelliCode Completions
+		"visualstudioexptteam.vscodeintellicode-completions",
+
+		// IntelliCode API Usage Examples
+		"visualstudioexptteam.intellicode-api-usage-examples",
+
+		// Import organization support for Python files using isort.
+		"ms-python.isort",
+
+		// Live Server - Launch a development local Server with live reload feature for static & dynamic pages
+		// "ritwickdey.liveserver",
+
+		// Live Sass Compiler
+		"glenn2223.live-sass",
+
+		// Sass (.sass only)
+		"syler.sass-indented",
+
+		// Live Share Real-time collaborative development from the comfort of your favorite tools.
+		"ms-vsliveshare.vsliveshare",
+
+		// Jupyter Extension for Visual Studio Code
+		"ms-toolsai.jupyter",
+
+		// PHP
+		// PHP Intelephense
+		// "bmewburn.vscode-intelephense-client",
+		
+		// PHP IntelliSense
+		// "zobo.php-intellisense",
+
+		// PHP Debug
+		// "xdebug.php-debug",
+
+		// Portuguese (Brazil) Language Pack for Visual Studio Code
+		"ms-ceintl.vscode-language-pack-pt-br",
+
+		// Thunder Client is a lightweight Rest API Client Extension 
+		"rangav.vscode-thunder-client",
+
+		// REST Client allows you to send HTTP request and view the response in Visual Studio Code directly
+		"humao.rest-client",
+
+		// Dev Containers extension lets you use a Docker container as a full-featured development environment.
+		"ms-vscode-remote.remote-containers",
+
+		// Remote - SSH and Remote - Tunnels extensions let you use any remote machine as your development environment.
+		"ms-vscode.remote-explorer",
+
+		// Remote - Tunnels 
+		"ms-vscode.remote-server",
+
+		// SAP Fiori Tools - Extension Pack
+		// "sapse.sap-ux-fiori-tools-extension-pack",
+
+		// SAP Business Application Studio toolkit
+		// "saposs.app-studio-toolkit",
+
+		// Remote Access for SAP Business Application Studio
+		// "saposs.app-studio-remote-access",
+
+		// UI5 XML Support - Syntax highlighting & Auto-complete for SAPUI5 XML view.
+		// "m8524769.ui5-xml-support",
+
+		// WSL extension lets you use VS Code on Windows to build Linux applications that run on the Windows Subsystem for Linux (WSL)
+		"ms-vscode-remote.remote-wsl",
+
+		// Kubernetes - Develop, deploy and debug Kubernetes applications
+		"ms-kubernetes-tools.vscode-kubernetes-tools",
+
+		// YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+		"redhat.vscode-yaml",
+
+		// Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.
+		"ms-python.python",
+
 	],
+
 	// List of extensions recommended by Code OSS that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
 		
 	]
 }
+
