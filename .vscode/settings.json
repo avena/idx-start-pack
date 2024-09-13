@@ -3,6 +3,8 @@
     "IDX.aI.enableInlineCompletion": true,
     "IDX.aI.enableCodebaseIndexing": true,
     "IDX.webDevTools": true,
+    "IDX.enableIntegrationsPanel": true,
+    "IDX.corgiMode": true,
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 10,
@@ -25,7 +27,10 @@
     "workbench.iconTheme": "vscode-icons",
     "workbench.tree.indent": 10,
     "editor.mouseWheelZoom": true,
-    "IDX.corgiMode": true,
+    
+    
+    //  code spell
+    "cSpell.language": "en,pt,pt_BR"
     
     
   }

@@ -28,8 +28,15 @@
         "formulahendry.auto-rename-tag"
         "aaron-bond.better-comments"
         "vscode-icons-team.vscode-icons"
-        "salesforce.salesforcedx-vscode"
+        
+        # code spell
+        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker-portuguese-brazilian"
         # "vscodevim.vim"
+
+        # salesforce
+        # "salesforce.salesforcedx-vscode"
+
     ];
 
     # Enable previews
